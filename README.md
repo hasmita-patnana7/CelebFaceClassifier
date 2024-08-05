@@ -64,4 +64,4 @@ The Sports Celebrity Image Classification project aims to develop a system that 
 
 #### Conclusion
 
-This project provides a comprehensive approach to developing an image classification system for sports celebrities. By leveraging techniques like face detection, wavelet transforms, CNNs, and web application development, the project aims to create a robust and user-friendly tool for real-time sports celebrity identification.
+This project provides a comprehensive approach to developing an image classification system for sports celebrities. By leveraging techniques like face detection, wavelet transforms, and CNNs, the project aims to create a robust and user-friendly tool for real-time sports celebrity identification.
